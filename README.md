@@ -105,8 +105,9 @@
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
----
 
+
+---
 <!-- Epic phone badge (clickable) -->
 [![Call Me](https://img.shields.io/badge/📞%20Call%20Me-%2B213.671.36.04.38-blue?style=for-the-badge&logo=telephone&logoColor=white)](tel:+213671360438)
 
@@ -126,3 +127,34 @@
   <sub>🇩🇿 <b>Proudly engineered from Algeria</b> — low-level, high-impact, open-source driven.<br>
   💬 Interested in collaboration, audits, or benchmarks? <a href="https://t.me/Okba_elkantara">Message me on Telegram</a>.</sub>
 </p>
+
+
+
+
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/okba14">
+    <img src="https://github-readme-stats.vercel.app/api?username=okba14&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Oqba's GitHub stats" width="48%"/>
+  </a>
+  <a href="https://github.com/okba14">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=okba14&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B81&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/okba14">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okba14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okba14&theme=radical" alt="Profile Summary" width="95%"/>
+</p>
+
+
