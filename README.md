@@ -25,6 +25,9 @@
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire — Excellent collaboration"/>
   </a>
 </p>
+
+
+
 ---
 
 ## 💻 Tech Arsenal
