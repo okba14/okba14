@@ -6,6 +6,25 @@
 [![Contributions](https://img.shields.io/badge/Contributions-155%20last%20year-brightgreen?style=for-the-badge)]()
 [![Achievements](https://img.shields.io/badge/Achievements-3%20unlocked-yellow?style=for-the-badge)]()
 
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/users/okba14/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO — You want it? You merge it."/>
+  </a>
+  <a href="https://github.com/users/okba14/achievements/quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw — Fastest PR in the West!"/>
+  </a>
+  <a href="https://github.com/users/okba14/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — Active contributor"/>
+  </a>
+  <a href="https://github.com/users/okba14/achievements/pair-extraordinaire">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire — Excellent collaboration"/>
+  </a>
+</p>
 ---
 
 ## 💻 Tech Arsenal
