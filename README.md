@@ -53,6 +53,16 @@
 - Formal verification & advanced auditing for **Solidity** and EVM bytecode.  
 - Gas optimization patterns and secure smart contract architectures.
 
+
+
+---
+
+## 🧠 Research Focus
+
+> Merging Artificial Intelligence with Low-Level Systems for Security Automation.  
+> Exploring C-based neural architectures, autonomous command learning, and real-time anomaly detection for Linux-based infrastructures.
+
+
 ---
 
 ## 🧠 Core Skills — focus areas
@@ -86,6 +96,18 @@
 - Build low-level libraries and performance-critical modules in **C / Assembly**.  
 - Help design and benchmark server architectures for AI workloads (streaming, multi-model routing).  
 - Mentor on binary exploitation, fuzzing, and vulnerability triage.
+
+
+---
+
+## 😎 Developer Identity
+
+- 🧠 Thinks in **C** before coffee ☕  
+- 💻 Builds neural networks with pure math  
+- 🔒 Security is not a feature — it's a mindset  
+- 🧬 Loves merging AI with low-level code
+
+
 
 ---
 
