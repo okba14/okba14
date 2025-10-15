@@ -24,7 +24,11 @@
   <a href="https://github.com/users/okba14/achievements/pair-extraordinaire">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire — Excellent collaboration"/>
   </a>
+  <a href="https://github.com/users/okba14/achievements/starstruck">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck — Gained 16 stars on repositories"/>
+  </a>
 </p>
+
 
 
 
