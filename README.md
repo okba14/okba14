@@ -149,7 +149,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Algeria-006233?style=for-the-badge&logo=algeria&logoColor=white" alt="Made in Algeria" /><br><br>
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20in%20Algeria-006233?style=for-the-badge&logo=algeria&logoColor=white" alt="Algeria" /><br><br>
   <sub>🇩🇿 <b>Proudly engineered from Algeria</b> — low-level, high-impact, open-source driven.<br>
   💬 Interested in collaboration, audits, or benchmarks? <a href="https://t.me/Okba_elkantara">Message me on Telegram</a>.</sub>
 </p>
