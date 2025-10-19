@@ -41,6 +41,8 @@
     <img src="https://holopin.me/guiartp" alt="@guiartp's Holopin badges" width="90%" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.15);"/>
   </a>
 </p>
+
+
 ---
 
 ## 💻 Tech Arsenal
