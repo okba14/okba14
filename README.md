@@ -31,6 +31,16 @@
 
 
 
+---
+
+
+## 🧩 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@guiartp" target="_blank" rel="noopener noreferrer">
+    <img src="https://holopin.me/guiartp" alt="@guiartp's Holopin badges" width="600"/>
+  </a>
+</p>
 
 ---
 
