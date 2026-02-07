@@ -1,5 +1,7 @@
 # 👋 Hi — I’m Oqba (GUIAR OQBA) 🇩🇿
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=SYSTEM+ARCHITECT%3A+GUIAR+OQBA;LOW-LEVEL+SYSTEMS+ENGINEER;AI-NATIVE+INFRASTRUCTURE+BUILDER;SECURITY+RESEARCHER+%7C+ALGERIA+%F0%9F%87%A9%F0%9F%87%BF" alt="Typing SVG" />
+
 [![NeuroHTTP](https://img.shields.io/badge/NeuroHTTP-AI%20Native%20Web%20Server-blue?style=for-the-badge&logo=github)](https://github.com/okba14/NeuroHTTP)
 [![Primary Stack](https://img.shields.io/badge/Stack-C%20%7C%20Assembly%20%7C%20Solidity-orange?style=for-the-badge)]()
 [![Security Research](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge)]()
